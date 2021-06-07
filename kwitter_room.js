@@ -1,15 +1,17 @@
 
 //ADD YOUR FIREBASE LINKS HERE
 // Your web app's Firebase configuration
+// Your web app's Firebase configuration
 var firebaseConfig = {
-      apiKey: "AIzaSyDUJszjil0g4vgEue8LaEpshj79w4Zoba8",
-      authDomain: "class-test-817de.firebaseapp.com",
-      databaseURL: "https://class-test-817de-default-rtdb.firebaseio.com",
-      projectId: "class-test-817de",
-      storageBucket: "class-test-817de.appspot.com",
-      messagingSenderId: "673949863127",
-      appId: "1:673949863127:web:8b2fa73f149e8adfab3492"
+      apiKey: "AIzaSyCNcQno2oxrMeHdLpNaljasJTmQ4j6ucuc",
+      authDomain: "kwitter-25335.firebaseapp.com",
+      projectId: "kwitter-25335",
+      storageBucket: "kwitter-25335.appspot.com",
+      messagingSenderId: "1017810430241",
+      appId: "1:1017810430241:web:28ee821c57f5b6ac03b660"
     };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
     
